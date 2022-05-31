@@ -17,13 +17,13 @@ header {
     opacity: 1;
 }
 
-.header h1 {
+.header_section h1 {
     font-family: Raleway;
     font-size: 50px;
     color: #FFFFFF;
 }
 
-.header img {
+.header_section img {
     width: 1280px;
 }
 
